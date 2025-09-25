@@ -1,0 +1,4 @@
+map,planner,time_aware,found,cost,nodes_expanded,planning_time_s
+small_map.txt,bfs,True,True,4,18,0.0001
+small_map.txt,ucs,True,True,4,14,0.0001
+small_map.txt,astar,True,True,4,5,0.0000
